@@ -14,6 +14,9 @@ public class Ejer1 {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingresa n: ");
         int n = teclado.nextInt();
+        
+        
+        // hola
 
         System.out.println("Ingresaste: " + n);
     }
