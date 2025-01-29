@@ -1,7 +1,7 @@
 package practica3;
 
 import java.util.Scanner;
-import javaapplication4.Funciones;
+
 
 public class e6 {
 
